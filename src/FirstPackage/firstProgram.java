@@ -36,10 +36,10 @@ public class firstProgram {
 		 driver.get(homepage);
 		 
 		 Thread.sleep(3000);*/
-		 
+		 int a=2;
+		 int b=3;
 		
-		add(2,3);
-		
+		 add(a,b);
 		
 		
 		 
