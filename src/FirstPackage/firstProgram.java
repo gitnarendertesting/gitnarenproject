@@ -34,7 +34,9 @@ public class firstProgram {
 		 Thread.sleep(3000);*/
 		 
 		
+		System.out.println("Hi how are you");
 		
+		System.out.println("Hi how are you2");
 		
 		 
 		 		 }
