@@ -1,4 +1,4 @@
-package FirstPackage;
+ package FirstPackage;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -17,6 +17,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 
 public class firstProgram {
+	
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
 
 	public static void main(String[] args) throws InterruptedException {
 		
@@ -33,6 +37,8 @@ public class firstProgram {
 		 
 		 Thread.sleep(3000);*/
 		 
+		
+		add(2,3);
 		
 		
 		
