@@ -41,7 +41,15 @@ public class firstProgram {
 		
 		 add(a,b);
 		
+
+		 System.out.println("hai how are you");
+		 
+		 System.out.println("hello team");
+		 
+		 System.out.println("Local updating 8.18PM");
+
 		System.out.println("updating at master side");
+
 		
 		System.out.println("updating at master side2");
 		 
