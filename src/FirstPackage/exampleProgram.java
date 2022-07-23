@@ -39,11 +39,7 @@ public class exampleProgram {
         // iterated the whole array
         System.out.println(arr);
 
-        System.out.println("Updating example program at master side 1")
-	System.out.println("Updating example program at master side 2")
-	
-	System.out.println("Updating example program at master side 3")
-	System.out.println("Updating example program at master side 4")
+       System.out.println("only one change in example program");
 		
 	}
 
