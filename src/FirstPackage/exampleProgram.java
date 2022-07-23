@@ -41,6 +41,9 @@ public class exampleProgram {
 
         System.out.println("Updating example program at master side 1")
 	System.out.println("Updating example program at master side 2")
+	
+	System.out.println("Updating example program at master side 3")
+	System.out.println("Updating example program at master side 4")
 		
 	}
 
