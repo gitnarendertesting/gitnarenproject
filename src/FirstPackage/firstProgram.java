@@ -43,14 +43,7 @@ public class firstProgram {
 		
 
 
-            System.out.println("updating in local 1");
-            
-            System.out.println("Updating in local2");
-		
-
-
-	System.out.println("Updating at Master 1");
-		System.out.println("Updating at Master 2");
+         System.out.println("Local changes at night");
 
 		 
 		 		 }
