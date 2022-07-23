@@ -42,7 +42,11 @@ public class firstProgram {
 		 add(a,b);
 		
 
-		 System.out.println("Updating at Master side 1")
+		 System.out.println("Updating at Master side 1");
+		
+		 System.out.println("Updating at Master side2");
+		
+		 System.out.println("Updating at Master Side 3");
 		 
 		 		 }
 
