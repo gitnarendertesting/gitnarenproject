@@ -42,6 +42,7 @@ public class firstProgram {
 		 add(a,b);
 		
 
+
 		System.out.println("Local update 1");
 		
 		System.out.println("Local update 2");
@@ -51,6 +52,13 @@ public class firstProgram {
 		System.out.println("Local update 4");
 		
 		System.out.println("Local update 5");
+
+		 System.out.println("Updating at Master side 1");
+		
+		 System.out.println("Updating at Master side2");
+		
+		 System.out.println("Updating at Master Side 3");
+
 		 
 		 		 }
 
