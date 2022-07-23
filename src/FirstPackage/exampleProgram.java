@@ -38,6 +38,10 @@ public class exampleProgram {
         // By now loop is done means we have
         // iterated the whole array
         System.out.println(arr);
+
+        System.out.println("Updating example program at master side 1")
+	System.out.println("Updating example program at master side 2")
+		
 	}
 
 }
